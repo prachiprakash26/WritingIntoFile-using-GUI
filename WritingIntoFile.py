@@ -1,7 +1,8 @@
 #############################################################
 #       Whatever you write here,                            #
 #       will be written in one file created                 #
-#       with name MyFile.txt in same location as this       #
+#       with name of text file you provide                  #
+#       in same location as this                            #
 #       python script's                                     #
 #                                                           #                
 #       Amendments -                                        #
